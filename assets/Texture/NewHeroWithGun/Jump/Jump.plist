@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>JK_P_Gun__Jump_000.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{490,426}}</string>
+                <key>offset</key>
+                <string>{3,-2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{6,7},{490,426}}</string>
+                <key>sourceSize</key>
+                <string>{496,436}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>Jump.png</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:09b1b53b67d614f6e80a0a5b5068e691$</string>
+            <key>textureFileName</key>
+            <string>Jump.png</string>
+        </dict>
+    </dict>
+</plist>

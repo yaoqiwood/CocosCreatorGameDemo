@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "36e3db1f-2a8b-4573-abfa-3640132724b6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "valcano-1": {
+      "ver": "1.0.3",
+      "uuid": "d3923b69-4ab1-452a-89e8-39cec7f6455a",
+      "rawTextureUuid": "36e3db1f-2a8b-4573-abfa-3640132724b6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 0,
+      "trimY": 12,
+      "width": 448,
+      "height": 638,
+      "rawWidth": 448,
+      "rawHeight": 650,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

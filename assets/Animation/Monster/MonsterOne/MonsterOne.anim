@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MonsterOne",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e736dc68-58f6-43f0-b8b6-0bdf9486d4bb"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ed8404f5-907f-43fc-a1d6-cae1f3c35183"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "75de4e16-6ebd-4b7e-9ee2-3abd752fc5ce"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d5c0f839-40da-4e60-8005-2a7d27f205f5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "78df48c6-073b-434f-9973-cb80a78207f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "JK_P_Sword__Jump_000": {
+      "ver": "1.0.3",
+      "uuid": "bf2cee6b-fc53-45ae-8992-dcbb7f3ba266",
+      "rawTextureUuid": "78df48c6-073b-434f-9973-cb80a78207f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -2.5,
+      "trimX": 7,
+      "trimY": 8,
+      "width": 354,
+      "height": 425,
+      "rawWidth": 367,
+      "rawHeight": 436,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

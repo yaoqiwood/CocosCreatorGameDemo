@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "8df7ac52-aa19-4bd2-ac3c-1aa11c947cf7",
+  "rawTextureUuid": "06f1145e-309c-4982-83ca-d3011868bc00",
+  "size": {
+    "width": 512,
+    "height": 512
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "JK_P_Gun__Jump_000.png": {
+      "ver": "1.0.3",
+      "uuid": "d57a15fd-46b8-4236-a0bb-395532c0e6ca",
+      "rawTextureUuid": "06f1145e-309c-4982-83ca-d3011868bc00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": -2,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 490,
+      "height": 426,
+      "rawWidth": 496,
+      "rawHeight": 436,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

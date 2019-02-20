@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "441ad6f1-4b85-401f-b822-4d58627908fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HeroSwordSlash": {
+      "ver": "1.0.3",
+      "uuid": "bdcc9781-5081-4817-a78a-7d5d581b7744",
+      "rawTextureUuid": "441ad6f1-4b85-401f-b822-4d58627908fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -67,
+      "offsetY": 242.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 886,
+      "height": 1557,
+      "rawWidth": 1024,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
